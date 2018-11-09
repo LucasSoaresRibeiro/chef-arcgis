@@ -1,0 +1,23 @@
+{
+  "arcgis": {
+    "version": "10.6",
+    "desktop": {
+		"install_dir": "D:\\Programas\\ArcGIS",
+		"setup": "D:\\Lucas\\Programas\\ArcGIS\\Desktop-10.6.1\\Setup.exe",
+		"authorization_file": "",
+		"authorization_file_version": "",
+		"install_features": "ALL",
+		"software_class": "Viewer",
+		"seat_preference": "Float",
+		"esri_license_host": "IMG100",
+		"desktop_config": true,
+		"modifyflexdacl": false
+    }
+  },
+  "python": {
+    "install_dir": "C:\\Python27"
+  },
+  "run_list":[
+    "recipe[arcgis-desktop]"
+  ]
+}
