@@ -1,0 +1,17 @@
+{
+    "arcgis": {
+      "pro": {
+          "setup": "D:\\Lucas\\Programas\\ArcGIS\\ArcGIS Pro 2.1\\ArcGISPro\\ArcGISPro.msi",
+          "install_dir": "D:\\Programas\\ArcGIS",
+          "portal_list": "https://imagem.maps.arcgis.com",
+          "allusers": 1,
+          "software_class": "Professional",  
+          "authorization_type": "CONCURRENT_USE",
+          "esri_license_host": "IMG100",
+          "authorization_file": ""
+      }
+    },
+    "run_list": [
+      "recipe[arcgis-pro]"
+    ]
+  }
