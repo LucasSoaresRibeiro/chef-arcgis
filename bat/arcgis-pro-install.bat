@@ -1,4 +1,4 @@
+set recipeDirectory=%cd%\..\recipes
 C:
 cd C:\chef
-chef-solo -j D:\Lucas\Repositorios\github\chef-arcgis\recipes\arcgis-pro-install.json
-REM chef-solo -j D:\Lucas\Repositorios\github\chef-arcgis\recipes\arcgis-pro-uninstall.json
+chef-solo -j %recipeDirectory%\arcgis-pro-install.json
