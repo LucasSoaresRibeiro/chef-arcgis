@@ -1,0 +1,15 @@
+{
+    "arcgis": {
+      "version": "10.6",
+      "run_as_user": "arcgis",
+      "desktop": {
+        "install_dir": "D:\\Programas\\ArcGIS",
+      },
+      "licensemanager": {
+        "install_dir": "D:\\Programas\\ArcGIS",
+      }
+    },
+    "run_list":[
+      "recipe[arcgis-desktop::uninstall]"
+    ]
+  }

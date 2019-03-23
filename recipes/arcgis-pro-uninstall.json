@@ -1,0 +1,10 @@
+{
+  "arcgis": {
+    "pro": {
+      "version": "2.1"
+    }
+  },
+  "run_list":[
+    "recipe[arcgis-pro::uninstall]"
+  ]
+}

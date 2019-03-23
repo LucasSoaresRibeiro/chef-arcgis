@@ -1,8 +1,8 @@
 {
     "arcgis": {
       "pro": {
-          "setup": "D:\\Lucas\\Programas\\ArcGIS\\ArcGIS Pro 2.1\\ArcGISPro\\ArcGISPro.msi",
-          "install_dir": "D:\\Programas\\ArcGIS",
+          "setup": "D:\\Lucas\\Programas\\ArcGIS\\ArcGIS Pro 2.3\\ArcGISPro\\ArcGISPro.msi",
+          "install_dir": "D:\\Programas\\ArcGIS\\ArcGISPro",
           "portal_list": "https://imagem.maps.arcgis.com",
           "allusers": 1,
           "software_class": "Professional",  
