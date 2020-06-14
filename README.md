@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img alt="Chef logo" title="Chef" src=".github/chef-logo.svg" width="220px" />
+    <img alt="ArcGIS logo" title="ArcGIS" src=".github/ArcGISLogo.jpg" width="150px" />
+</h1>
+
 # Chef ArcGIS Recipes
 
 Chef recipes for ArcGIS instalation
